@@ -1,0 +1,63 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+
+}
+
+h1{
+    margin: 20px auto 0 auto;
+    font-size: 80px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat' , sans-serif;
+   
+}
+
+h3{
+    font-family: 'Montserrat' , sans-serif;
+}
+
+.sub{
+    font-size: 30px;
+    margin: 0 auto auto auto;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding: 250px 0 0 0;
+}
+
+.middle-container{
+background-color:#ecfaf8 ;
+}
+
+.bottom-container{
+    background-color:#f6fcfb
+}
+
+.mountain-img{
+    position:relative;
+
+}
+
+.pic{
+    border-radius: 50px;
+  width: 200px;
+}
+
+.graph{
+    border-radius: 50px;
+    width: 200px;
+}
+
+.controller{
+    border-radius: 50px;
+    width: 120px;
+}
+}
+
