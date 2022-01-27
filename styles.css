@@ -43,7 +43,7 @@ background-color:#ecfaf8 ;
 
 .mountain-img{
     border-radius: 50px;
-    width: 250px;
+    width:500px;
 
 }
 
@@ -61,5 +61,10 @@ background-color:#ecfaf8 ;
     border-radius: 50px;
     width: 120px;
 }
+
+@media only screen and (max-width: 600px) {
+ .mountain-img{
+    border-radius: 50px;
+    width: 250px;
 }
 
