@@ -41,7 +41,8 @@ background-color:#ecfaf8 ;
 }
 
 .mountain-img{
-    position:relative;
+    border-radius: 50px;
+    width: 500px;
 
 }
 
