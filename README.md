@@ -1,1 +1,1 @@
-# This is my site using HTML and CSS.
+# This is my site using HTML and CSS only.
